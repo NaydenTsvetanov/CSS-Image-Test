@@ -1,0 +1,16 @@
+#textBox1 {
+    border: 1PX solid transparent;
+    background-color: darkgray;
+    width: 100px;
+    height: 25px;
+    border-radius: 25%;
+}
+
+#button1 {
+    border: 1px solid transparent;    
+    background-color: aquamarine;
+    width: 60px;
+    height: 25px;
+    border-radius: 25%;
+
+}
